@@ -1,3 +1,23 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Main.cpp
+  Player.cpp
+C:\Computer Games Development\Year 2.1\ObjectOriented\Programs\grenade-battle\GrenadeBattleProgram\Player.cpp(14,20): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Computer Games Development\Year 2.1\ObjectOriented\Programs\grenade-battle\GrenadeBattleProgram\Player.cpp(13,20): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Computer Games Development\Year 2.1\ObjectOriented\Programs\grenade-battle\GrenadeBattleProgram\Player.cpp(55,20): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Computer Games Development\Year 2.1\ObjectOriented\Programs\grenade-battle\GrenadeBattleProgram\Player.cpp(54,20): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
   GrenadeBattleProgram.vcxproj -> C:\Computer Games Development\Year 2.1\ObjectOriented\Programs\grenade-battle\GrenadeBattleProgram\Debug\GrenadeBattleProgram.exe
